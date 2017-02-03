@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>es.keensoft.signature</groupId>
 	<artifactId>pdf-signature-position</artifactId>
-	<version>0.9.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 
 	<name>PDF signature position</name>
 	<description>Obtains a new signature position in a PDF that ensures no overlapping with existing ones</description>
